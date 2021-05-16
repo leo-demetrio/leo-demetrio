@@ -1,5 +1,5 @@
 ### Hi there 👋
-    https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg>
 
 <!--
 **leo-demetrio/leo-demetrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
