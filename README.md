@@ -1,7 +1,7 @@
 
 
 ### Hi my name is Leopoldo Demetrio
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="29" width="49">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="29" width="49" style="max-width:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="29" width="49">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="29" width="49">
 <!--
