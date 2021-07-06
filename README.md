@@ -2,9 +2,7 @@
 
 # Leopoldo Demetrio <a href="https://www.linkedin.com/in/leopoldo-dev/" target="_blank" style="padding-tdop:5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="29" width="49" style="max-width:100%;" height="50" width="80"></img></a>
 
-## Meus projetos hospedados
-#### [Achados e perdidos](https://achadosrj.000webhostapp.com/) 
-#### [Template com Bootstrap](https://achadosrj.000webhostapp.com/)
+
 
 ## My skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="29" width="49"></img>
