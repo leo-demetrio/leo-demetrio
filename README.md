@@ -1,6 +1,6 @@
 
 
-# Leopoldo Demetrio <a href="https://www.linkedin.com/in/leopoldo-dev/" target="_blank" style="padding-tdop:5rem;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="29" width="49" style="max-width:100%;" height="50" width="80"></img></a>
+# Leopoldo Demetrio
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldo-dev/)
 
