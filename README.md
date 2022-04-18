@@ -26,7 +26,8 @@
  ## Repositoires for visitation
    ### Java Api <br>
    <a href="https://github.com/leo-demetrio/api-springboot-mysql">Api - SpringBoot - Mysql - Unit Tests - Integration Tests </a><br>
-   <a href="https://github.com/leo-demetrio/api-springboot-mockito">Api - SpringBoot - Unit Tests Mockito </a>
+   <a href="https://github.com/leo-demetrio/api-springboot-mockito">Api - SpringBoot - Unit Tests Mockito </a><br>
+   <a href="https://github.com/leo-demetrio/api-springboot-postgres">Api - SpringBoot - Postgres and JPA </a>
    
    ### Angular <br>
    <a href="https://github.com/leo-demetrio/crud-angular-jsonserver">CRUD Angular and JSON Server</a>
