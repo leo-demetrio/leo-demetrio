@@ -4,7 +4,7 @@
 💻 Full Stack Developer
 <div >
   <a href="https://github.com/leo-demetrio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-demetrio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-demetrio&show_icons=true&theme=dark&include_all_commits=true&hide=issues&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-demetrio&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
