@@ -41,6 +41,8 @@
    ### HTML CSS JS <br>
    
    <a href="https://github.com/leo-demetrio/flexbox-hotel">Flex Hotel - flex-box - responsive</a>
+   
+   <a href="https://github.com/leo-demetrio/flexblog">Flex Blog - flex-box - responsive</a>
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="49" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="49">
