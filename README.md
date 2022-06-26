@@ -40,8 +40,9 @@
    
    ### HTML CSS JS <br>
    
-   <a href="https://github.com/leo-demetrio/flexbox-hotel">Flex Hotel - flex-box - responsive</a>   
-   <a href="https://github.com/leo-demetrio/flexblog">Flex Blog - flex-box - responsive</a>
+  <a href="https://github.com/leo-demetrio/store-cars">StoreCars - html - css - flex-box - responsive</a>   
+  <a href="https://github.com/leo-demetrio/flexbox-hotel">Flex Hotel - html - css - flex-box - responsive</a>   
+  <a href="https://github.com/leo-demetrio/flexblog">Flex Blog - html - css - flex-box - responsive</a>
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="49" /></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="49">
@@ -58,18 +59,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="29" width="49"></img>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">  -->
 
-<!--
-### Hi there 👋
-**leo-demetrio/leo-demetrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
